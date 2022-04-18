@@ -1,0 +1,8 @@
+1. Matriks adalah struktur penyimpanan data di dalam memori utama yang individu elemennya diacu dengan menggunakan dua buah indeks 
+(yang biasanya dikonotasikan dengan baris dan kolom).
+
+Matriks sendiri terdapat Kumpulan elemen yang bertipe sama. Tipe elemen matriks dapat berupatipe dasar 
+(integer, real, boolean, char dan string), atau tipe terstrukturseperti record.
+
+Array merupakan tipe data terstruktur/tersusun berguna untuk menyimpan sejumlah data yang bertipe sama. 
+Bagian yang menyusun array di sebut elemen array, yang masing – masing elemennya dapat diakses melalui indeks array.
